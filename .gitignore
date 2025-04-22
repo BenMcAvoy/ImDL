@@ -1,0 +1,10 @@
+# vs/build files
+.vs
+x64
+vcpkg_installed
+*.vcxproj.*
+
+# runtime output
+yt-dlp.exe
+*.mp4
+*.mp3
